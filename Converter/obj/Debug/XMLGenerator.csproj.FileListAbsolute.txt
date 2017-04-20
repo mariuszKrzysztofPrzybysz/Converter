@@ -1,0 +1,14 @@
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.csprojResolveAssemblyReference.cache
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\App.g.cs
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator_MarkupCompile.cache
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe.config
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\bin\Debug\XMLGenerator.exe
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\bin\Debug\XMLGenerator.pdb
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator_MarkupCompile.lref
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\MainWindow.baml
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.g.resources
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.Properties.Resources.resources
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.csproj.GenerateResource.Cache
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.exe
+C:\Users\mprzybysz\Desktop\XMLFileGenerator\XMLGenerator\obj\Debug\XMLGenerator.pdb
